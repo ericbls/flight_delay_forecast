@@ -47,22 +47,3 @@ A análise utiliza dados massivos (big data) e integra diferentes bibliotecas pa
 
 * Modelo preditivo capaz de estimar a probabilidade de atraso com base em variáveis meteorológicas e operacionais.
 * Insights sobre fatores que mais influenciam atrasos, como condições climáticas adversas e horários de pico.
-
-## Como Executar
-
-1. Clonar o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Abrir o notebook no Databricks.
-3. Configurar o cluster com suporte a PySpark.
-4. Executar as células na ordem proposta.
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
-
----
-
-Se quiser, também posso criar uma **versão curta e direta** do README para uso rápido no GitHub, mantendo apenas a descrição, tecnologias e instruções de execução. Quer que eu prepare essa versão enxuta também?
